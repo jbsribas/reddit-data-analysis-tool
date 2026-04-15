@@ -1,4 +1,4 @@
- Reddit Discussion Insights
+# Reddit Discussion Insights
 
 This project aims to analyze public Reddit discussions by extracting aggregated insights such as topic trends, sentiment patterns, and engagement metrics.
 
