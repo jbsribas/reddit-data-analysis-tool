@@ -28,5 +28,4 @@ It is intended for research and non-commercial purposes only, in compliance with
 
 ## Structure
 
-- `dataset/`: Contains metadata of collected posts (IDs, URLs, scores, number of comments, extraction date)
 - `src/`: Scripts for data collection and analysis
